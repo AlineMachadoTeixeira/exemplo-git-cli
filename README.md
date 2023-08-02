@@ -27,5 +27,15 @@ Inicializar um repositório (Executado dentro da pasta)
 
 Verificar o status atual do repositório
 
+`git add nomearquivo` ou `git add`
+
+Adocionar (tornar arquivo rastreável) ao monitoramento do git.
+
+`git commit - m "texto da mensagem sobre esta alteração"`
+
+fazer commit das alterações (salvar no histórico).
+
+
+
 
 
